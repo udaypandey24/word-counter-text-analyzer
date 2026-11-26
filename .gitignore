@@ -1,0 +1,14 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Generated analysis output (may contain user text)
+text_analysis_report*.txt
+word_frequencies*.csv
+reports/*
+!reports/.gitkeep
+
+# Local editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
